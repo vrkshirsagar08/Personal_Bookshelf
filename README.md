@@ -16,7 +16,7 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/personal_bookshelf.git
+   git clone https://github.com/vrkshirsagar08/Personal_Bookshelf.git
 
 2.Navigate to the project directory:
 cd personal_bookshelf
